@@ -9,10 +9,8 @@ $(function(){
 	jQuery.fn.RSS = function(url){
 		this.each(function() {
 			 var objeto = $(this);
-			 var titulo = "";
 			 var mostrar = "";
-			 var contenido = "" ;
-			 var link = "";
+			 var titulo, contenido, link;
 
 			 $.getJSON(url, function(data){
 			 	$.each(data.feed.entry, function(i, entry) {
