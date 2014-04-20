@@ -1,7 +1,7 @@
 /*----------------------------------
  Autor: Esteban Vera
  Twitter : @kiokotzu
- Correo : estebanvg@outlook.com
+ Correo : esteban.vg@outlook.com
  ----------------------------------*/
 
 
